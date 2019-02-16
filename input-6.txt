@@ -1,0 +1,1001 @@
+1000
+ri 1652
+li 4712
+li 5859
+lr
+ri 5952
+rr
+lr
+lr
+lr
+ri 9002
+lr
+lr
+rr
+rr
+ri 3102
+lr
+li 1389
+ri 8820
+rr
+rr
+li 7374
+li 8388
+li 4631
+li 6156
+li 4549
+rr
+lr
+lr
+rr
+ri 7700
+rr
+li 5245
+ri 8537
+rr
+rr
+li 2762
+lr
+lr
+li 1700
+li 9157
+ri 2755
+rr
+lr
+li 3420
+lr
+li 1345
+li 9573
+lr
+ri 4791
+li 1163
+ri 5494
+li 4850
+li 8515
+rr
+ri 9948
+li 8646
+ri 4461
+li 1305
+ri 821
+lr
+lr
+rr
+ri 1224
+li 70
+lr
+ri 6484
+ri 1701
+li 4651
+rr
+li 9599
+lr
+rr
+rr
+ri 7721
+rr
+ri 8285
+ri 9459
+li 8841
+ri 3086
+lr
+li 9381
+ri 9245
+ri 4722
+lr
+ri 1903
+ri 7293
+rr
+li 7487
+lr
+rr
+li 4380
+lr
+lr
+ri 6925
+li 839
+li 5036
+ri 2689
+ri 3127
+li 9658
+rr
+lr
+rr
+ri 1037
+li 4322
+lr
+rr
+lr
+ri 1149
+ri 4543
+ri 3547
+rr
+li 2574
+li 2705
+rr
+ri 7199
+ri 4836
+ri 3943
+ri 3211
+li 9684
+lr
+ri 6281
+lr
+lr
+ri 4001
+li 6091
+rr
+lr
+ri 6167
+rr
+ri 3157
+ri 3209
+rr
+ri 9048
+lr
+lr
+li 674
+ri 8051
+ri 5185
+ri 5300
+li 6855
+ri 1772
+ri 9976
+li 1569
+li 3566
+ri 4513
+rr
+rr
+ri 7423
+lr
+li 5569
+lr
+lr
+li 9504
+ri 1933
+li 3519
+ri 2331
+lr
+lr
+li 3344
+li 5628
+rr
+li 7728
+rr
+lr
+lr
+li 2325
+li 9186
+lr
+ri 4526
+ri 8100
+li 5295
+lr
+ri 736
+li 8351
+ri 5215
+li 1529
+rr
+li 7373
+li 3160
+rr
+lr
+li 6477
+ri 8149
+rr
+li 895
+rr
+rr
+lr
+rr
+lr
+li 8740
+rr
+li 6717
+li 3524
+rr
+ri 51
+ri 6161
+rr
+ri 6013
+ri 8294
+rr
+rr
+ri 3985
+ri 1723
+ri 1719
+ri 851
+rr
+lr
+ri 4503
+lr
+li 5585
+rr
+rr
+ri 9495
+li 8028
+lr
+rr
+rr
+li 6264
+li 1469
+rr
+lr
+ri 2076
+rr
+li 9445
+rr
+rr
+ri 1441
+rr
+rr
+rr
+li 5014
+rr
+li 4700
+rr
+li 3472
+ri 3388
+ri 9263
+lr
+ri 2749
+ri 4310
+li 1102
+rr
+rr
+li 6734
+li 2012
+li 4514
+rr
+li 4366
+rr
+lr
+ri 7007
+li 6742
+rr
+rr
+li 2285
+ri 1878
+rr
+ri 8235
+lr
+lr
+ri 749
+lr
+rr
+ri 528
+ri 1783
+rr
+ri 8990
+ri 9560
+li 2527
+rr
+lr
+lr
+li 838
+lr
+rr
+lr
+ri 3573
+lr
+rr
+ri 8775
+rr
+lr
+lr
+rr
+li 897
+lr
+ri 7656
+rr
+ri 2559
+rr
+lr
+lr
+rr
+rr
+lr
+rr
+li 3404
+li 6664
+ri 1244
+ri 1227
+lr
+ri 3700
+lr
+ri 4906
+lr
+rr
+rr
+li 149
+ri 2238
+lr
+rr
+ri 5672
+li 6462
+ri 8423
+lr
+rr
+rr
+rr
+rr
+ri 9790
+li 9956
+ri 341
+li 3119
+rr
+lr
+ri 7811
+li 4768
+rr
+ri 3261
+lr
+ri 2858
+li 2208
+lr
+li 4824
+ri 8930
+ri 9044
+lr
+rr
+rr
+lr
+ri 1474
+ri 2545
+rr
+lr
+ri 9226
+rr
+li 7995
+lr
+ri 6886
+li 3557
+ri 6380
+lr
+ri 973
+li 2636
+li 4804
+lr
+ri 9983
+rr
+rr
+lr
+rr
+li 6353
+lr
+li 6517
+ri 4671
+li 799
+ri 9164
+rr
+lr
+rr
+li 9871
+li 1763
+li 3299
+rr
+li 777
+lr
+li 6090
+ri 2261
+ri 8176
+rr
+ri 1596
+rr
+lr
+lr
+li 1649
+ri 550
+li 6575
+rr
+rr
+ri 1145
+rr
+lr
+ri 9443
+ri 3741
+li 4048
+li 6438
+li 852
+rr
+rr
+li 3676
+li 1858
+ri 6934
+rr
+rr
+ri 904
+li 6176
+lr
+li 4425
+rr
+lr
+li 6079
+li 4130
+rr
+li 7617
+li 7293
+rr
+li 8659
+lr
+rr
+li 6414
+ri 4677
+lr
+ri 1129
+ri 9151
+lr
+rr
+ri 3466
+lr
+lr
+rr
+ri 1079
+rr
+lr
+li 3833
+rr
+ri 7899
+ri 7297
+ri 4302
+lr
+lr
+rr
+lr
+lr
+li 8415
+lr
+lr
+li 4215
+li 6238
+ri 8309
+ri 6244
+li 8236
+lr
+lr
+li 6944
+ri 485
+lr
+li 3420
+rr
+rr
+li 4445
+lr
+ri 5895
+rr
+lr
+lr
+lr
+rr
+rr
+lr
+rr
+rr
+li 4620
+rr
+lr
+li 4325
+lr
+lr
+ri 3582
+li 5499
+ri 8700
+lr
+ri 5247
+li 2846
+rr
+lr
+lr
+li 5591
+rr
+rr
+rr
+lr
+rr
+li 6083
+lr
+lr
+rr
+lr
+rr
+rr
+rr
+li 2799
+li 2701
+li 3593
+rr
+lr
+lr
+ri 3225
+lr
+li 2449
+ri 5320
+lr
+ri 3244
+li 9028
+rr
+rr
+rr
+lr
+lr
+li 2932
+ri 2216
+lr
+ri 8715
+li 7674
+li 6882
+rr
+ri 8375
+li 341
+ri 5932
+li 4025
+li 5481
+ri 7238
+li 9886
+rr
+li 5511
+ri 2139
+ri 9669
+rr
+lr
+li 251
+rr
+lr
+lr
+rr
+rr
+rr
+li 2379
+lr
+ri 3634
+ri 3079
+li 7851
+li 3272
+ri 5580
+rr
+rr
+ri 8678
+lr
+rr
+lr
+ri 6187
+lr
+lr
+li 5229
+li 9033
+li 4869
+ri 952
+li 696
+lr
+ri 145
+rr
+li 9349
+lr
+li 8678
+rr
+ri 2961
+rr
+lr
+lr
+li 4620
+rr
+rr
+lr
+ri 459
+rr
+lr
+li 2374
+ri 6873
+li 2365
+li 3126
+li 9392
+lr
+rr
+rr
+lr
+li 7307
+lr
+li 7473
+ri 2408
+ri 145
+lr
+lr
+li 1354
+rr
+lr
+ri 5379
+li 2588
+lr
+li 1571
+lr
+rr
+lr
+lr
+rr
+li 3593
+rr
+li 2614
+ri 3010
+rr
+rr
+ri 7391
+li 1635
+ri 6296
+ri 8096
+lr
+lr
+ri 202
+rr
+li 9560
+li 1306
+rr
+li 9349
+li 2900
+rr
+lr
+rr
+li 2921
+li 1396
+ri 6719
+li 428
+rr
+ri 8624
+rr
+rr
+li 489
+rr
+rr
+rr
+rr
+ri 8184
+lr
+lr
+rr
+li 3335
+rr
+rr
+lr
+li 8341
+ri 7951
+lr
+rr
+li 5571
+ri 9405
+li 6687
+li 426
+lr
+rr
+lr
+li 5589
+ri 7914
+rr
+li 4443
+rr
+rr
+lr
+lr
+ri 6625
+rr
+lr
+li 4369
+ri 6918
+rr
+rr
+ri 4396
+rr
+ri 3344
+lr
+ri 2963
+li 6708
+rr
+lr
+rr
+ri 8450
+li 5353
+lr
+rr
+li 7207
+li 7012
+li 3904
+rr
+rr
+ri 9199
+li 8071
+li 4514
+lr
+rr
+li 9351
+li 2753
+li 9577
+rr
+rr
+ri 947
+rr
+li 105
+li 413
+ri 5139
+rr
+rr
+ri 9225
+rr
+lr
+rr
+rr
+ri 2372
+rr
+ri 3097
+rr
+lr
+ri 8655
+li 5129
+lr
+rr
+li 2957
+lr
+lr
+ri 567
+rr
+ri 785
+rr
+ri 3369
+rr
+li 6009
+li 605
+li 7103
+li 1160
+li 3980
+rr
+ri 7527
+rr
+li 9470
+li 1002
+li 5942
+rr
+ri 6969
+li 1264
+ri 2578
+ri 4298
+li 3898
+lr
+ri 7040
+li 6655
+lr
+li 8936
+rr
+li 7199
+li 1334
+rr
+rr
+ri 7186
+li 40
+rr
+rr
+ri 1294
+rr
+li 5366
+ri 5609
+rr
+lr
+ri 489
+rr
+rr
+lr
+lr
+lr
+lr
+li 2701
+rr
+li 2297
+rr
+rr
+li 839
+lr
+rr
+ri 7637
+ri 7460
+rr
+li 1311
+li 9291
+ri 6503
+ri 2356
+lr
+li 2653
+rr
+li 4149
+rr
+rr
+ri 2506
+li 8198
+li 9706
+lr
+lr
+ri 8789
+rr
+ri 5099
+rr
+lr
+lr
+lr
+rr
+li 9003
+rr
+rr
+lr
+lr
+ri 5158
+lr
+rr
+li 9278
+li 3906
+rr
+ri 7800
+lr
+rr
+lr
+li 870
+lr
+ri 81
+lr
+li 2553
+ri 694
+li 6178
+ri 4315
+lr
+li 5705
+li 2525
+li 7797
+ri 4435
+rr
+li 2727
+rr
+lr
+rr
+ri 3525
+rr
+ri 2235
+rr
+lr
+li 8154
+lr
+lr
+rr
+li 8071
+lr
+rr
+lr
+ri 9424
+lr
+li 2383
+lr
+li 3356
+rr
+ri 7851
+rr
+li 246
+lr
+li 6983
+li 3833
+rr
+rr
+rr
+ri 3989
+li 8813
+ri 3366
+li 5508
+ri 982
+lr
+rr
+ri 3401
+rr
+ri 6098
+ri 9243
+rr
+rr
+rr
+lr
+li 2389
+lr
+rr
+li 9017
+lr
+lr
+li 222
+ri 2654
+lr
+li 7953
+li 9785
+ri 8212
+ri 8546
+ri 8459
+ri 9829
+rr
+ri 9948
+lr
+li 3803
+rr
+li 7412
+ri 9241
+li 4470
+rr
+lr
+lr
+li 2501
+li 6691
+li 333
+li 8706
+lr
+lr
+ri 1740
+lr
+lr
+lr
+li 6845
+rr
+rr
+rr
+li 9984
+ri 5381
+rr
+lr
+ri 7666
+rr
+lr
+rr
+lr
+ri 9262
+rr
+rr
+lr
+li 6471
+ri 2504
+lr
+lr
+li 1684
+li 6568
+ri 1218
+li 1945
+lr
+rr
+ri 3465
+lr
+lr
+ri 7747
+lr
+ri 118
+li 1870
+li 4141
+li 2889
+ri 6780
+lr
+lr
+lr
+ri 954
+li 4772
+ri 2113
+lr
+rr
+lr
+rr
+ri 4807
+ri 2447
+li 9330
+rr
+rr
+ri 4722
+lr
+rr
+ri 6946
+li 7657
+lr
+ri 6951
+rr
+lr
+rr
+lr
+rr
+rr
+li 4376
+rr
+li 6238
+li 1583
+lr
